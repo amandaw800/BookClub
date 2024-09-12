@@ -1,0 +1,87 @@
+Project: Book Club Manager 
+
+
+When checking the project idea, the instructor will assess the following items: 
+(1) Is the project idea already picked up by another group? If so, please propose a different project idea. 
+(2) Are there sufficient workloads proposed for each group member? If not, please include more functional or non-functional requirements in the proposal. 
+(3) Is the project too large, too vague, or too simple? If so, the instructor will provide further suggestions on refinement of the project idea.
+
+ 1.A brief introduction of the software application that you want to build, with some background introduction about the domain and the necessity.
+The software application that our group is building is an online book club. The book club can be set up by registered users on our platform and can be a tool for in-person/virtual groups to use.  Within the book club, users are able to connect with others to read, set goals, and converse about their current and future readings. Currently, there is a lack of good software that fosters both reading and connecting with others. Therefore, we are interested in creating a product that improves and creates what is currently available.
+2. The potential features that you plan to develop. You can describe the major or most important functional requirements and non-functional requirements. Definitely make sure that everybody will have sufficient workload (e.g., at least four functional requirements and one non-functional requirement for each team member).
+	This software will support a variety of functionalities, including website operations such as username and password authentication, and features that will facilitate book club activities like allowing users to interact within a group, read books online, and buy and research books. The following is the list of functionalities that we plan to develop for this software: 
+Functional Requirements:
+Website stuff
+Book club stuff
+User Interactions with group
+buy/ research books
+
+Allow users to sign up with email, Google, or social media accounts
+Password and username to validate registered accounts
+Create profile (profile pic/bio)
+Ability to create book club group
+Add picture to group and create bio
+Ability to add/remove users to the group
+Set group moderators
+Borrow or buy books
+Search books
+Create a group name for the book club
+Set the current book
+Set group type (by genre)
+Book recommendations(For club or on the general store)
+Add books to reading club list
+Create polls
+Remove/Add books from reading club list (Bookshelf functions)
+Set challenges/read by dates (progress)
+Read books online (with ability to bookmark, make notes, highlight, set chapter length goals, personalize font, size, colors, etc)
+Find local book clubs nearby (register your book club online/on the app)
+Submit club thoughts, opinions, reviews about the books as public notes/posts 
+Have private chat channels for book clubs to discuss books
+Notifications for due dates
+Export reading data to external file
+Calendar features to see book club dates, deadlines, and community events
+
+Non-functional requirements:
+
+Scalability - should be able to support large number of users and clubs with strong performance
+Cross-platform - ability to use on different browsers (google, firefox, bing, etc.)
+Security - implement MFA to protect privacy and data information
+Availability - access to several different languages
+Usability - design should be user-friendly to all users (access for disabilities, etc.)
+Performance - all books and features should load within 5 seconds
+Data backup - Site should implement regular backups bi-daily to prevent data loss
+3. The responsibilities of each team member.
+	Jaden: Created slides, wrote up challenges 
+Amanda: functional requirements, time management 
+Sierra: functional requirements, drawing up the idea
+	Skylar: functional requirements, wrote up challenges
+	Ty: functional requirements, wrote up possible solutions
+	Ben: functional requirements wrote up possible solutions
+
+
+4. Describe the potential challenges you may face. Basically, try to propose a project idea with some challenges. For instance, the domain is new to you, the workflow is new, or some algorithms are required for further literature survey. 
+Trying to implement a shop with shipping nationally would prove to be challenging. 
+Making sure the app can handle the amount of users all chatting and rating books at the same time. 
+Advertising to the general public. 
+Funding for the project and keeping the servers up. 
+Feasibility of actually making this. 
+Creating a clean aesthetic 
+5. Describe the potential strategies you will take to overcome those challenges.
+Supporting number of users and main user features
+User chat, online book, multiple posts
+Advertising to the general public
+Funding for the project
+Maintaining servers
+Feasibility of project scope
+Creating a clean aesthetic
+
+
+Possible solutions:
+Project management and scheduling 
+Plan scope of project and functionalities
+Keeping costs maintainable 
+Research CSS/Javascript and website/app builders
+Specifically Next.js, React.js, Tailwind CSS
+Look into different methods of servers and hosting users
+
+
